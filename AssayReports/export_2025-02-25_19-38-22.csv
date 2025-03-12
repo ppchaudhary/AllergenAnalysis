@@ -1,0 +1,306 @@
+﻿QR-Code;SampleCode;SampleDate;Patient Code;PatientName;PatientDateOfBirth;AssayDate;TestDate;TestBy;ApprovalDate;ApprovalBy;AdditionalInformation;AllergenID;AllergenName;Code;CalibratedValue;Signal-Noise
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";3;Aca m;t19;< 0.10;415
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";4;Aca s;d70;< 0.10;708
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";5;Ach d;f526;< 0.10;417
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";6;Act d 1;f500;< 0.10;565
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";7;Act d 10;f502;< 0.10;474
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";8;Act d 2;f503;< 0.10;295
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";9;Act d 5;f501;< 0.10;441
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";10;Ail a;t304;< 0.10;547
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";14;All c;f48;< 0.10;754
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";15;All s;f47;< 0.10;339
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";16;Aln g 1;t100;< 0.10;533
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";17;Aln g 4;t101;< 0.10;656
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";18;Alt a 1;m229;< 0.10;491
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";19;Alt a 6;m230;< 0.10;525
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";20;Ama r;w14;< 0.10;457
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";21;Amb a;w1;< 0.10;398
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";22;Amb a 1;w230;< 0.10;289
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";23;Amb a 4;w300;< 0.10;319
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";24;Ana o;f202;< 0.10;542
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";25;Ana o 2;f550;< 0.10;421
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";26;Ana o 3;f443;< 0.10;750
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";27;Ani s 1;p10;< 0.10;332
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";28;Ani s 3;p11;< 0.10;507
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";29;Api g 1;f417;< 0.10;431
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";30;Api g 2;f504;< 0.10;300
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";31;Api g 6;f505;< 0.10;393
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";32;Api m;i1;< 0.10;575
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";33;Api m 1;i208;< 0.10;476
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";34;Api m 10;i217;< 0.10;569
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";35;Ara h 1;f422;< 0.10;378
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";36;Ara h 15;f803;< 0.10;469
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";37;Ara h 2;f423;< 0.10;398
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";38;Ara h 3;f424;< 0.10;283
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";39;Ara h 6;f447;< 0.10;583
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";40;Ara h 8;f352;< 0.10;761
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";41;Ara h 9;f427;< 0.10;591
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";42;Arg r 1;o100;< 0.10;657
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";43;Art v;w6;< 0.10;586
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";44;Art v 1;w231;< 0.10;451
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";45;Art v 3;w233;< 0.10;448
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";46;Asp f 1;m218;< 0.10;187
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";47;Asp f 3;m220;< 0.10;745
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";48;Asp f 4;m221;< 0.10;0
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";49;Asp f 6;m222;< 0.10;335
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";50;Ave s;f7;< 0.10;552
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";51;Ber e;f18;< 0.10;385
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";52;Ber e 1;f354;< 0.10;626
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";53;Bet v 1;t215;< 0.10;570
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";54;Bet v 2;t216;< 0.10;263
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";55;Bet v 6;t225;< 0.10;525
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";56;Bla g 1;i100;< 0.10;452
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";57;Bla g 2;i101;< 0.10;718
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";58;Bla g 4;i102;< 0.10;607
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";59;Bla g 5;i103;< 0.10;137
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";60;Bla g 9;i301;< 0.10;410
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";61;Blo t 10;d301;< 0.10;301
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";62;Blo t 21;d302;< 0.10;621
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";63;Blo t 5;d300;< 0.10;501
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";64;Bos d 2;e100;< 0.10;516
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";65;Bos d 4;f76;< 0.10;530
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";66;Bos d 5;f77;< 0.10;395
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";67;Bos d 6;e204;< 0.10;525
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";68;Bos d 8;f78;< 0.10;572
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";69;Bos d_meat;f27;< 0.10;637
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";70;Bos d_milk;f2;< 0.10;335
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";71;Bro pa;t305;< 0.10;440
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";72;Cam d;f506;< 0.10;585
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";73;Can f 1;e101;< 0.10;686
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";74;Can f 2;e102;< 0.10;441
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";75;Can f 3;e221;< 0.10;459
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";76;Can f 4;e302;< 0.10;497
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";77;Can f 6;e303;< 0.10;568
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";78;Can f_Fd1;e304;< 0.10;474
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";79;Can f_male urine;e308;< 0.10;629
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";80;Can s;w303;< 0.10;553
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";81;Can s 3;w302;< 0.10;459
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";82;Cap a;f218;< 0.10;497
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";83;Cap h_epithelia;e80;< 0.10;438
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";84;Cap h_milk;f300;< 0.10;493
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";85;Car c;f265;< 0.10;703
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";86;Car i;f201;< 0.10;537
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";87;Car p;f293;< 0.10;471
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";88;Cav p 1;e305;< 0.10;599
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";89;Che a;w10;< 0.10;337
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";90;Che a 1;w100;< 0.10;590
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";91;Che q;f347;< 0.10;624
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";92;Chi spp.;f23;< 0.10;837
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";93;Cic a;f309;< 0.10;497
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";94;Cit s;f33;< 0.10;233
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";95;Cla h;m2;< 0.10;515
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";96;Cla h 8;m100;< 0.10;591
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";97;Clu h;f205;< 0.10;490
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";98;Clu h 1;f525;< 0.10;601
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";99;Cor a 1.0103;t102;< 0.10;569
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";100;Cor a 1.0401;f428;< 0.10;724
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";101;Cor a 11;f522;< 0.10;556
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";102;Cor a 12_RUO;RUO-f800;< 0.10;503
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";103;Cor a 14;f439;< 0.10;513
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";104;Cor a 8;f425;< 0.10;596
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";105;Cor a 9;f440;< 0.10;593
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";106;Cor a_pollen;t4;< 0.10;483
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";107;Cra c 6;f529;< 0.10;384
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";108;Cry j 1;t303;< 0.10;459
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";109;Cuc m 2;f528;< 0.10;611
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";110;Cuc p;f226;< 0.10;393
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";111;Cup a 1;t226;< 0.10;746
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";112;Cup s;t222;< 0.10;744
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";113;Cyn d;g2;< 0.10;655
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";114;Cyn d 1;g216;< 0.10;734
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";115;Cyp c 1;f355;< 0.10;599
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";116;Dau c;f31;< 0.10;519
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";117;Dau c 1;f507;< 0.10;643
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";118;Der f 1;d100;< 0.10;702
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";119;Der f 2;d101;< 0.10;544
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";120;Der p 1;d202;< 0.10;534
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";121;Der p 10;d205;< 0.10;335
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";122;Der p 11;d102;< 0.10;254
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";123;Der p 2;d203;< 0.10;657
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";124;Der p 20;d303;< 0.10;834
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";125;Der p 21;d304;< 0.10;628
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";126;Der p 23;d209;< 0.10;580
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";127;Der p 5;d103;< 0.10;695
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";128;Der p 7;d104;< 0.10;760
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";129;Dol spp;i25;< 0.10;459
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";130;Equ c 1;e227;< 0.10;644
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";131;Equ c 3;e306;< 0.10;612
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";132;Equ c 4;e307;< 0.10;188
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";133;Equ c_meat;f321;< 0.10;519
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";134;Equ c_milk;f286;< 0.10;640
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";135;Fag e;f11;< 0.10;613
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";136;Fag e 2;f508;< 0.10;547
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";137;Fag s 1;t300;< 0.10;643
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";138;Fel d 1;e94;< 0.10;519
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";139;Fel d 2;e220;< 0.10;644
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";140;Fel d 4;e228;< 0.10;710
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";141;Fel d 7;e300;< 0.10;562
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";142;Fic b;k81;< 0.10;463
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";143;Fic c;f328;< 0.10;649
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";144;Fra a 1+3;f44;< 0.10;473
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";145;Fra e;t25;< 0.10;536
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";146;Fra e 1;t103;< 0.10;653
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";147;Gad m;f3;< 0.10;512
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";148;Gad m 1;f509;< 0.10;489
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";149;Gad m 2+3;f805;< 0.10;617
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";150;Gal d 1;f233;< 0.10;585
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";151;Gal d 2;f232;< 0.10;811
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";152;Gal d 3;f323;< 0.10;672
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";153;Gal d 4;k208;< 0.10;595
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";154;Gal d 5;f510;< 0.10;447
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";155;Gal d_meat;f83;< 0.10;513
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";156;Gal d_white;f1;< 0.10;743
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";157;Gal d_yolk;f75;< 0.10;611
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";158;Gly d 2;d105;< 0.10;940
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";159;Gly m 4;f353;< 0.10;554
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";160;Gly m 5;f431;< 0.10;532
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";161;Gly m 6;f432;< 0.10;669
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";162;Gly m 8;f511;< 0.10;301
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";163;Hel a;k84;< 0.10;500
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";164;Hev b 1;k215;< 0.10;570
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";165;Hev b 11;k224;< 0.10;818
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";166;Hev b 3;k217;< 0.10;441
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";167;Hev b 5;k218;< 0.10;457
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";168;Hev b 6.02;k220;< 0.10;498
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";169;Hev b 8;k221;< 0.10;336
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";170;Hom g;f80;< 0.10;328
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";171;Hom s LF;o214;< 0.10;466
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";172;Hor v;f6;< 0.10;572
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";173;Jug r 1;f441;< 0.10;475
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";174;Jug r 2;f512;< 0.10;303
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";175;Jug r 3;f539;< 0.10;611
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";176;Jug r 4;f540;< 0.10;415
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";177;Jug r 6;f541;< 0.10;546
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";178;Jug r_pollen;t10;< 0.10;568
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";179;Jun a;t63;< 0.10;564
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";180;Len c;f235;< 0.10;452
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";181;Lep d 2;d305;< 0.10;839
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";182;Lit s;f24;< 0.10;551
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";183;Loc m;f553;< 0.10;586
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";184;Lol p 1;g100;< 0.10;570
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";185;Lol spp.;f258;< 0.10;381
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";186;Lup a;f335;< 0.10;602
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";187;Mac i 2S Albumin;f513;< 0.10;513
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";188;Mac inte;f345;< 0.10;497
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";189;Mal d 1;f434;< 0.10;510
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";190;Mal d 2;f514;< 0.10;492
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";191;Mal d 3;f435;< 0.10;457
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";192;Mala s 11;y5;< 0.10;655
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";193;Mala s 5;y2;< 0.10;492
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";194;Mala s 6;y3;< 0.10;453
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";195;Man i;f91;< 0.10;523
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";196;Mel g;f284;< 0.10;599
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";197;Mer a 1;w301;< 0.10;526
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";198;Mes a 1_RUO;RUO-e800;< 0.10;271
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";199;Mor r;t71;< 0.10;352
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";200;Mus a;f92;< 0.10;384
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";201;Mus m 1;e103;< 0.10;571
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";202;Myt e;f37;< 0.10;734
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";203;Ole e 1;t224;< 0.10;493
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";204;Ole e 7_RUO;RUO-t227;< 0.10;401
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";205;Ole e 9;t240;< 0.10;579
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";206;Ori v;f283;< 0.10;624
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";207;Ory c 1;e309;< 0.10;527
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";208;Ory c 2;e310;< 0.10;499
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";209;Ory c 3;e311;< 0.10;460
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";210;Ory s;f9;< 0.10;467
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";211;Ory_meat;f213;< 0.10;69
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";212;Ost e;f290;< 0.10;422
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";213;Ovi a_epithelia;e81;< 0.10;303
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";214;Ovi a_meat;f88;< 0.10;642
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";215;Ovi a_milk;f325;< 0.10;501
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";216;Pan b;f515;< 0.10;369
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";217;Pan m;f55;< 0.10;562
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";218;Pap s;f224;< 0.10;540
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";219;Pap s 2S Albumin;f516;< 0.10;437
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";220;Par j;w21;< 0.10;546
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";221;Par j 2;w211;< 0.10;483
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";222;Pas n;g17;< 0.10;709
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";223;Pec spp.;f338;< 0.10;425
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";224;Pen ch;m1;< 0.10;476
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";225;Pen m 1;f517;< 0.10;839
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";226;Pen m 2;f545;< 0.10;571
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";227;Pen m 3;f552;< 0.10;628
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";228;Pen m 4;f524;< 0.10;557
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";229;Per a;i206;< 0.10;799
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";230;Per a 7;i300;< 0.10;613
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";231;Pers a;f96;< 0.10;420
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";232;Pet c;f86;< 0.10;603
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";233;Pha v;f315;< 0.10;585
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";234;Phl p 1;g205;< 0.10;751
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";235;Phl p 12;g212;< 0.10;587
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";236;Phl p 2;g206;< 0.10;584
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";237;Phl p 5.0101;g215;< 0.10;634
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";238;Phl p 6;g209;< 0.10;509
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";239;Phl p 7;g210;< 0.10;625
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";240;Pho d 2;t105;< 0.10;712
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";241;Phod s 1;e301;< 0.10;570
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";242;Phr c;g7;< 0.10;600
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";243;Pim a;f271;< 0.10;690
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";244;Pis s;f12;< 0.10;767
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";245;Pis v 1;f531;< 0.10;394
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";246;Pis v 2;f532;< 0.10;482
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";247;Pis v 3;f533;< 0.10;401
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";248;Pis v 4_RUO;RUO-f804;< 0.10;573
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";249;Pla a 1;t241;< 0.10;612
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";250;Pla a 2;t301;< 0.10;771
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";251;Pla a 3;t302;< 0.10;610
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";252;Pla l;w9;< 0.10;464
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";253;Pla l 1;w234;< 0.10;206
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";254;Pol d;i4;< 0.10;600
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";255;Pol d 5;i210;< 0.10;641
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";256;Pop n;t14;< 0.10;666
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";257;Pru av;f242;< 0.10;616
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";258;Pru du;f20;< 0.10;547
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";259;Pru p 3;f420;< 0.10;585
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";260;Pru p 7_RUO;RUO-f801;< 0.10;126
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";261;Pyr c;f94;< 0.10;494
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";262;Raj c;f535;< 0.10;596
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";263;Raj c Parvalbumin;f536;< 0.10;674
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";264;Rat n;e73;< 0.10;502
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";265;Rud spp.;f207;< 0.10;681
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";266;Sac c;f45;< 0.10;678
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";267;Sal k;w11;< 0.10;615
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";268;Sal k 1;w232;0.77;2258
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";269;Sal s;f41;< 0.10;628
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";270;Sal s 1;f534;< 0.10;525
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";271;Sco s;f206;< 0.10;489
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";272;Sco s 1;f551;< 0.10;677
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";273;Sec c_flour;f5;< 0.10;556
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";274;Sec c_pollen;g12;< 0.10;531
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";275;Ses i;f10;< 0.10;590
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";276;Ses i 1;f518;< 0.10;554
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";277;Sin;f89;< 0.10;471
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";278;Sin a 1;f519;< 0.10;523
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";279;Sol spp.;i70;< 0.10;854
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";280;Sol t;f35;< 0.10;631
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";281;Sola l;f25;< 0.10;456
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";282;Sola l 6;f520;< 0.10;585
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";283;Sus d 1;f530;< 0.10;534
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";284;Sus d_epithelia;e83;< 0.10;555
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";285;Sus d_meat;f26;< 0.10;425
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";286;Ten m;f527;< 0.10;381
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";287;Thu a;f40;< 0.10;408
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";288;Thu a 1;f538;< 0.10;685
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";289;Tri a 14;f542;< 0.10;569
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";290;Tri a 19;f543;< 0.10;331
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";291;Tri a aA_TI;f544;< 0.10;545
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";292;Tri fo;f305;< 0.10;533
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";293;Tri s;f124;< 0.10;616
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";294;Tyr p;d72;< 0.10;682
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";295;Tyr p 2;d306;< 0.10;650
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";296;Ulm c;t8;< 0.10;456
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";297;Urt d;w20;< 0.10;581
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";299;Vac m;f288;< 0.10;482
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";300;Ves v;i3;< 0.10;562
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";301;Ves v 1;i211;< 0.10;788
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";302;Ves v 5;i209;< 0.10;672
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";303;Vit v 1;f521;< 0.10;408
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";304;Xip g 1;f537;< 0.10;641
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";305;Zea m;f8;< 0.10;569
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";306;Zea m 14;f523;< 0.10;582
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";1;tIgE;NA;< 20.00;208
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";11;GD1;NA;16.08;26512
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";298;GD2;NA;21.46;29938
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";307;GD3;NA;19.47;28672
+02BPI169;AD11;;;;;2/5/2025;2/24/2025;Aditi Vijendra;2/24/2025;Aditi Vijendra;"false + (dust) for Asp f4 ";308;GD4;NA;23.07;30964

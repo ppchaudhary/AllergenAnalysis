@@ -1,0 +1,306 @@
+﻿QR-Code;SampleCode;SampleDate;Patient Code;PatientName;PatientDateOfBirth;AssayDate;TestDate;TestBy;ApprovalDate;ApprovalBy;AdditionalInformation;AllergenID;AllergenName;Code;CalibratedValue;Signal-Noise
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;3;Aca m;t19;< 0.10;371
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;4;Aca s;d70;< 0.10;481
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;5;Ach d;f526;< 0.10;312
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;6;Act d 1;f500;< 0.10;509
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;7;Act d 10;f502;< 0.10;447
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;8;Act d 2;f503;< 0.10;287
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;9;Act d 5;f501;< 0.10;335
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;10;Ail a;t304;< 0.10;378
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;14;All c;f48;< 0.10;349
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;15;All s;f47;< 0.10;212
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;16;Aln g 1;t100;< 0.10;421
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;17;Aln g 4;t101;< 0.10;440
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;18;Alt a 1;m229;1.12;2920
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;19;Alt a 6;m230;< 0.10;348
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;20;Ama r;w14;< 0.10;564
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;21;Amb a;w1;< 0.10;757
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;22;Amb a 1;w230;< 0.10;526
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;23;Amb a 4;w300;< 0.10;371
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;24;Ana o;f202;< 0.10;428
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;25;Ana o 2;f550;< 0.10;357
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;26;Ana o 3;f443;< 0.10;544
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;27;Ani s 1;p10;< 0.10;127
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;28;Ani s 3;p11;< 0.10;480
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;29;Api g 1;f417;< 0.10;422
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;30;Api g 2;f504;< 0.10;235
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;31;Api g 6;f505;< 0.10;388
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;32;Api m;i1;< 0.10;505
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;33;Api m 1;i208;< 0.10;325
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;34;Api m 10;i217;< 0.10;450
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;35;Ara h 1;f422;< 0.10;16
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;36;Ara h 15;f803;< 0.10;142
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;37;Ara h 2;f423;< 0.10;174
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;38;Ara h 3;f424;< 0.10;243
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;39;Ara h 6;f447;< 0.10;412
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;40;Ara h 8;f352;< 0.10;503
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;41;Ara h 9;f427;< 0.10;494
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;42;Arg r 1;o100;< 0.10;391
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;43;Art v;w6;< 0.10;460
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;44;Art v 1;w231;< 0.10;320
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;45;Art v 3;w233;< 0.10;423
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;46;Asp f 1;m218;< 0.10;192
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;47;Asp f 3;m220;< 0.10;658
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;48;Asp f 4;m221;< 0.10;374
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;49;Asp f 6;m222;< 0.10;351
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;50;Ave s;f7;< 0.10;414
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;51;Ber e;f18;< 0.10;342
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;52;Ber e 1;f354;< 0.10;488
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;53;Bet v 1;t215;< 0.10;426
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;54;Bet v 2;t216;< 0.10;277
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;55;Bet v 6;t225;< 0.10;402
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;56;Bla g 1;i100;< 0.10;296
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;57;Bla g 2;i101;< 0.10;443
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;58;Bla g 4;i102;< 0.10;402
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;59;Bla g 5;i103;< 0.10;177
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;60;Bla g 9;i301;1.71;4055
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;61;Blo t 10;d301;< 0.10;0
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;62;Blo t 21;d302;< 0.10;580
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;63;Blo t 5;d300;< 0.10;402
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;64;Bos d 2;e100;< 0.10;307
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;65;Bos d 4;f76;< 0.10;398
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;66;Bos d 5;f77;< 0.10;401
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;67;Bos d 6;e204;< 0.10;267
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;68;Bos d 8;f78;< 0.10;339
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;69;Bos d_meat;f27;< 0.10;446
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;70;Bos d_milk;f2;< 0.10;164
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;71;Bro pa;t305;< 0.10;355
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;72;Cam d;f506;< 0.10;281
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;73;Can f 1;e101;19.74;28842
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;74;Can f 2;e102;< 0.10;265
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;75;Can f 3;e221;< 0.10;356
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;76;Can f 4;e302;< 0.10;274
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;77;Can f 6;e303;< 0.10;630
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;78;Can f_Fd1;e304;0.76;2238
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;79;Can f_male urine;e308;< 0.10;536
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;80;Can s;w303;< 0.10;289
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;81;Can s 3;w302;< 0.10;365
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;82;Cap a;f218;< 0.10;349
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;83;Cap h_epithelia;e80;< 0.10;269
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;84;Cap h_milk;f300;< 0.10;697
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;85;Car c;f265;< 0.10;514
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;86;Car i;f201;< 0.10;298
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;87;Car p;f293;< 0.10;454
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;88;Cav p 1;e305;< 0.10;432
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;89;Che a;w10;< 0.10;287
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;90;Che a 1;w100;< 0.10;478
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;91;Che q;f347;< 0.10;482
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;92;Chi spp.;f23;< 0.10;518
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;93;Cic a;f309;< 0.10;299
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;94;Cit s;f33;< 0.10;188
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;95;Cla h;m2;< 0.10;257
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;96;Cla h 8;m100;< 0.10;293
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;97;Clu h;f205;< 0.10;451
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;98;Clu h 1;f525;< 0.10;320
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;99;Cor a 1.0103;t102;< 0.10;453
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;100;Cor a 1.0401;f428;< 0.10;434
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;101;Cor a 11;f522;< 0.10;240
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;102;Cor a 12_RUO;RUO-f800;< 0.10;340
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;103;Cor a 14;f439;< 0.10;403
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;104;Cor a 8;f425;< 0.10;410
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;105;Cor a 9;f440;< 0.10;408
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;106;Cor a_pollen;t4;< 0.10;287
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;107;Cra c 6;f529;< 0.10;254
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;108;Cry j 1;t303;2.21;5034
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;109;Cuc m 2;f528;0.11;979
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;110;Cuc p;f226;< 0.10;301
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;111;Cup a 1;t226;0.51;1748
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;112;Cup s;t222;< 0.10;480
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;113;Cyn d;g2;< 0.10;741
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;114;Cyn d 1;g216;0.10;949
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;115;Cyp c 1;f355;< 0.10;392
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;116;Dau c;f31;< 0.10;367
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;117;Dau c 1;f507;< 0.10;394
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;118;Der f 1;d100;< 0.10;328
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;119;Der f 2;d101;< 0.10;333
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;120;Der p 1;d202;< 0.10;292
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;121;Der p 10;d205;< 0.10;64
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;122;Der p 11;d102;< 0.10;263
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;123;Der p 2;d203;< 0.10;356
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;124;Der p 20;d303;1.16;3006
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;125;Der p 21;d304;< 0.10;425
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;126;Der p 23;d209;< 0.10;400
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;127;Der p 5;d103;< 0.10;669
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;128;Der p 7;d104;< 0.10;583
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;129;Dol spp;i25;< 0.10;365
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;130;Equ c 1;e227;1.41;3484
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;131;Equ c 3;e306;< 0.10;463
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;132;Equ c 4;e307;< 0.10;0
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;133;Equ c_meat;f321;< 0.10;467
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;134;Equ c_milk;f286;< 0.10;319
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;135;Fag e;f11;< 0.10;492
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;136;Fag e 2;f508;< 0.10;274
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;137;Fag s 1;t300;< 0.10;445
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;138;Fel d 1;e94;18.30;27924
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;139;Fel d 2;e220;< 0.10;439
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;140;Fel d 4;e228;< 0.10;534
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;141;Fel d 7;e300;1.38;3431
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;142;Fic b;k81;< 0.10;286
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;143;Fic c;f328;< 0.10;435
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;144;Fra a 1+3;f44;< 0.10;377
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;145;Fra e;t25;< 0.10;342
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;146;Fra e 1;t103;< 0.10;398
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;147;Gad m;f3;< 0.10;324
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;148;Gad m 1;f509;< 0.10;288
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;149;Gad m 2+3;f805;< 0.10;742
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;150;Gal d 1;f233;< 0.10;358
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;151;Gal d 2;f232;< 0.10;740
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;152;Gal d 3;f323;< 0.10;531
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;153;Gal d 4;k208;< 0.10;246
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;154;Gal d 5;f510;< 0.10;660
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;155;Gal d_meat;f83;< 0.10;528
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;156;Gal d_white;f1;< 0.10;578
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;157;Gal d_yolk;f75;< 0.10;343
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;158;Gly d 2;d105;< 0.10;463
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;159;Gly m 4;f353;< 0.10;379
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;160;Gly m 5;f431;< 0.10;272
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;161;Gly m 6;f432;< 0.10;450
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;162;Gly m 8;f511;< 0.10;199
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;163;Hel a;k84;< 0.10;351
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;164;Hev b 1;k215;< 0.10;256
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;165;Hev b 11;k224;< 0.10;546
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;166;Hev b 3;k217;< 0.10;369
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;167;Hev b 5;k218;< 0.10;185
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;168;Hev b 6.02;k220;< 0.10;413
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;169;Hev b 8;k221;< 0.10;422
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;170;Hom g;f80;< 0.10;847
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;171;Hom s LF;o214;< 0.10;370
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;172;Hor v;f6;< 0.10;293
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;173;Jug r 1;f441;< 0.10;393
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;174;Jug r 2;f512;< 0.10;279
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;175;Jug r 3;f539;< 0.10;382
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;176;Jug r 4;f540;< 0.10;329
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;177;Jug r 6;f541;< 0.10;454
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;178;Jug r_pollen;t10;< 0.10;292
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;179;Jun a;t63;< 0.10;597
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;180;Len c;f235;< 0.10;354
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;181;Lep d 2;d305;< 0.10;405
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;182;Lit s;f24;< 0.10;319
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;183;Loc m;f553;< 0.10;309
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;184;Lol p 1;g100;< 0.10;416
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;185;Lol spp.;f258;< 0.10;324
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;186;Lup a;f335;< 0.10;337
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;187;Mac i 2S Albumin;f513;< 0.10;324
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;188;Mac inte;f345;< 0.10;372
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;189;Mal d 1;f434;< 0.10;240
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;190;Mal d 2;f514;< 0.10;399
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;191;Mal d 3;f435;< 0.10;355
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;192;Mala s 11;y5;< 0.10;381
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;193;Mala s 5;y2;< 0.10;365
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;194;Mala s 6;y3;< 0.10;883
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;195;Man i;f91;< 0.10;464
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;196;Mel g;f284;< 0.10;427
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;197;Mer a 1;w301;< 0.10;917
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;198;Mes a 1_RUO;RUO-e800;< 0.10;221
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;199;Mor r;t71;< 0.10;247
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;200;Mus a;f92;< 0.10;173
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;201;Mus m 1;e103;< 0.10;430
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;202;Myt e;f37;< 0.10;390
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;203;Ole e 1;t224;< 0.10;306
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;204;Ole e 7_RUO;RUO-t227;< 0.10;366
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;205;Ole e 9;t240;< 0.10;464
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;206;Ori v;f283;< 0.10;420
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;207;Ory c 1;e309;< 0.10;371
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;208;Ory c 2;e310;< 0.10;266
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;209;Ory c 3;e311;< 0.10;375
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;210;Ory s;f9;< 0.10;216
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;211;Ory_meat;f213;< 0.10;0
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;212;Ost e;f290;< 0.10;410
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;213;Ovi a_epithelia;e81;< 0.10;354
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;214;Ovi a_meat;f88;< 0.10;321
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;215;Ovi a_milk;f325;< 0.10;314
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;216;Pan b;f515;0.10;1032
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;217;Pan m;f55;< 0.10;296
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;218;Pap s;f224;< 0.10;317
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;219;Pap s 2S Albumin;f516;< 0.10;181
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;220;Par j;w21;< 0.10;386
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;221;Par j 2;w211;< 0.10;246
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;222;Pas n;g17;< 0.10;425
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;223;Pec spp.;f338;< 0.10;329
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;224;Pen ch;m1;< 0.10;462
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;225;Pen m 1;f517;< 0.10;351
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;226;Pen m 2;f545;0.35;1435
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;227;Pen m 3;f552;< 0.10;668
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;228;Pen m 4;f524;< 0.10;381
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;229;Per a;i206;< 0.10;541
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;230;Per a 7;i300;< 0.10;374
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;231;Pers a;f96;< 0.10;318
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;232;Pet c;f86;< 0.10;355
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;233;Pha v;f315;< 0.10;453
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;234;Phl p 1;g205;< 0.10;504
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;235;Phl p 12;g212;< 0.10;875
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;236;Phl p 2;g206;< 0.10;327
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;237;Phl p 5.0101;g215;< 0.10;510
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;238;Phl p 6;g209;< 0.10;339
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;239;Phl p 7;g210;< 0.10;432
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;240;Pho d 2;t105;< 0.10;917
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;241;Phod s 1;e301;< 0.10;375
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;242;Phr c;g7;< 0.10;446
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;243;Pim a;f271;< 0.10;644
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;244;Pis s;f12;< 0.10;465
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;245;Pis v 1;f531;< 0.10;100
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;246;Pis v 2;f532;< 0.10;333
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;247;Pis v 3;f533;< 0.10;215
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;248;Pis v 4_RUO;RUO-f804;< 0.10;446
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;249;Pla a 1;t241;< 0.10;404
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;250;Pla a 2;t301;< 0.10;501
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;251;Pla a 3;t302;< 0.10;379
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;252;Pla l;w9;< 0.10;297
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;253;Pla l 1;w234;< 0.10;114
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;254;Pol d;i4;< 0.10;567
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;255;Pol d 5;i210;< 0.10;388
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;256;Pop n;t14;< 0.10;390
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;257;Pru av;f242;< 0.10;464
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;258;Pru du;f20;< 0.10;401
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;259;Pru p 3;f420;< 0.10;342
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;260;Pru p 7_RUO;RUO-f801;< 0.10;260
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;261;Pyr c;f94;< 0.10;350
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;262;Raj c;f535;< 0.10;390
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;263;Raj c Parvalbumin;f536;< 0.10;531
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;264;Rat n;e73;< 0.10;299
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;265;Rud spp.;f207;< 0.10;466
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;266;Sac c;f45;< 0.10;374
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;267;Sal k;w11;< 0.10;251
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;268;Sal k 1;w232;< 0.10;497
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;269;Sal s;f41;< 0.10;343
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;270;Sal s 1;f534;< 0.10;366
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;271;Sco s;f206;< 0.10;340
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;272;Sco s 1;f551;< 0.10;507
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;273;Sec c_flour;f5;< 0.10;505
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;274;Sec c_pollen;g12;< 0.10;257
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;275;Ses i;f10;< 0.10;272
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;276;Ses i 1;f518;< 0.10;334
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;277;Sin;f89;< 0.10;214
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;278;Sin a 1;f519;< 0.10;374
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;279;Sol spp.;i70;< 0.10;513
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;280;Sol t;f35;< 0.10;588
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;281;Sola l;f25;< 0.10;374
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;282;Sola l 6;f520;< 0.10;446
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;283;Sus d 1;f530;< 0.10;457
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;284;Sus d_epithelia;e83;< 0.10;369
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;285;Sus d_meat;f26;< 0.10;231
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;286;Ten m;f527;< 0.10;213
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;287;Thu a;f40;< 0.10;362
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;288;Thu a 1;f538;< 0.10;477
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;289;Tri a 14;f542;< 0.10;314
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;290;Tri a 19;f543;< 0.10;0
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;291;Tri a aA_TI;f544;< 0.10;344
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;292;Tri fo;f305;< 0.10;233
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;293;Tri s;f124;< 0.10;272
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;294;Tyr p;d72;< 0.10;438
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;295;Tyr p 2;d306;< 0.10;309
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;296;Ulm c;t8;< 0.10;168
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;297;Urt d;w20;< 0.10;433
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;299;Vac m;f288;< 0.10;338
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;300;Ves v;i3;< 0.10;475
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;301;Ves v 1;i211;< 0.10;618
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;302;Ves v 5;i209;< 0.10;506
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;303;Vit v 1;f521;< 0.10;275
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;304;Xip g 1;f537;< 0.10;497
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;305;Zea m;f8;< 0.10;546
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;306;Zea m 14;f523;< 0.10;556
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;1;tIgE;NA;157.00;7417
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;11;GD1;NA;17.96;27711
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;298;GD2;NA;17.20;27228
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;307;GD3;NA;13.35;24771
+02BPI129;PID16;;;;;2/12/2025;2/24/2025;Pranav Thota;2/24/2025;Aditi Vijendra;;308;GD4;NA;17.07;27142
