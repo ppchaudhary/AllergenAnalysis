@@ -18,7 +18,7 @@ git clone https://github.com/luckypgi/AllergenAnalysis.git
 cd AllergenAnalysis
 Run the script in R
 
-source("allergen_analysis.R")
+source("Edited script.R")
 View generated plots
 
 Boxplots and beeswarm plots will be saved in the working directory.
