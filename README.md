@@ -14,7 +14,7 @@ install.packages(c("tidyverse", "dplyr", "pheatmap", "ggplot2", "readxl", "ggpub
 Usage
 Clone the repository
 
-git clone https://github.com/yourusername/AllergenAnalysis.git
+git clone https://github.com/luckypgi/AllergenAnalysis.git
 cd AllergenAnalysis
 Run the script in R
 
