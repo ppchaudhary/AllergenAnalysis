@@ -13,6 +13,7 @@ Ensure you have R and the required libraries installed:
 install.packages(c("tidyverse", "dplyr", "pheatmap", "ggplot2", "readxl", "ggpubr", "ggbeeswarm"))
 Usage
 Clone the repository
+Example data is alsp provided along with the output files.
 
 git clone https://github.com/luckypgi/AllergenAnalysis.git
 cd AllergenAnalysis
